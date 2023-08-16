@@ -1,0 +1,6 @@
+Transaction ID      	Account ID          	Transaction Date    	Transaction Time  	         Description	    Amount Withdrawn
+TXN-6909b3f3             1001                     2023-08-16               11:19:34                 Transaction Failed.      0                        
+TXN-7dcd5e92             1001                     2023-08-16               11:19:19                 PIN Changed              0                        
+TXN-fc30a497             1001                     2023-08-16               11:17:42                 Balance Checked          0                        
+TXN-aab1bc56             1001                     2023-08-16               11:12:59                 Exiting                  0                        
+TXN-40050446             1001                     2023-08-16               10:52:48                 Balance Checked          0                        
